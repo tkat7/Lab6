@@ -1,0 +1,6 @@
+c:\users\tkat\documents\visual studio 2015\Projects\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\Tkat\Documents\Visual Studio 2015\Projects\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\Tkat\Documents\Visual Studio 2015\Projects\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Tkat\Documents\Visual Studio 2015\Projects\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+C:\Users\Tkat\Documents\Visual Studio 2015\Projects\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\Tkat\Documents\Visual Studio 2015\Projects\Lab6\Lab6\obj\Debug\Lab6.pdb
